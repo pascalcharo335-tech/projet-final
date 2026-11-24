@@ -1,0 +1,21 @@
+body {
+ font-family: Arial;
+ background-color: #f2f2f2;
+ padding: 20px;
+}
+input {
+ padding: 10px;
+ margin: 5px;
+}
+button {
+ padding: 10px;
+ background-color: green;
+ color: white;
+ border: none;
+ cursor: pointer;
+}
+.Etudiant {
+ background-color: white;
+ padding: 10px;
+ margin: 10px;
+}
